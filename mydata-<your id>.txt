@@ -1,0 +1,5 @@
+name: won myeong jin
+student number: 2021041011
+major: software
+grade: 1
+course: English, mathematics, Physics, computer system, history and critical thonking, planning and preparing the future, openSW,computer programming
